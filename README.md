@@ -1,2 +1,2 @@
-# ShoppingManager
+# Shopping Manager
 Enterprise solutions 
